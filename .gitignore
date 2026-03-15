@@ -1,0 +1,9 @@
+.pytest_cache/
+.pytest_tmp/
+.test_tmp/
+.test_appdata/
+.test_workspace/
+.pip_tmp/
+.chart_loader_data/
+pytest-cache-files-*/
+tests/
